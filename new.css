@@ -1,0 +1,41 @@
+CSS
+
+selector {} (declaration block)- where you describe your styling information
+#property and its value
+p {
+    color: blue;
+}
+
+selector - target html element
+declaration block os enclosed in {}
+property - define what to style - color
+value - define how to style - blue
+
+Types of selectors
+ 1. Universal selector denoted by (*), style everything according to the styling u define
+ *{color: gold; } - apploies to all elements
+
+ 2. Element selector - Target elements of a specific type
+ form {}
+ table {}
+ ol {}
+
+3. Class selector - Targets elements with a specific class attribute
+we use a dot(.) notation
+
+<h3 class="blue_highlight"></h3>
+<p class="blue_highlight"></p>
+<form class="blue_highlight">
+
+.blue_highlight { ....} -whatever is defined in { }, applies to all the elemnts with blue_highlight
+
+4. ID selector - Unique idefier for elemts on your webpage
+- Tragets a specific element
+We use (#) symnbol
+<ol id="list"></ol>
+
+#list {......}
+
+5. Group selectors - similar to class selectors, u can style multiple elements, simply use element names but separate with commas
+p, h3, h4, form,. table, ul {....}
+

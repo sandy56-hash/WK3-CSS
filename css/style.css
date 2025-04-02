@@ -1,0 +1,38 @@
+<! --For id attribute we use # symbol ollowed by {}-->
+body {
+    background-color: darkgoldenrod
+
+}
+#heading {
+    text-align: center;
+    
+    text-decoration: underline
+}
+#form
+input, textarea {
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size:15px;
+
+}
+label {
+    display: block;
+    font: bold;
+
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+footer {
+    text-align: center;
+    text-decoration: wavy;
+    font-style: italic;
+    font-weight: bold;
+
+}
