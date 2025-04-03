@@ -29,8 +29,8 @@ we use a dot(.) notation
 
 .blue_highlight { ....} -whatever is defined in { }, applies to all the elemnts with blue_highlight
 
-4. ID selector - Unique idefier for elemts on your webpage
-- Tragets a specific element
+4. ID selector - Unique idefier for elements on your webpage
+- Tagets a specific element
 We use (#) symnbol
 <ol id="list"></ol>
 
