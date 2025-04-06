@@ -13,7 +13,7 @@ value - define how to style - blue
 
 Types of selectors
  1. Universal selector denoted by (*), style everything according to the styling u define
- *{color: gold; } - apploies to all elements
+ *{color: gold; } - applies to all elements
 
  2. Element selector - Target elements of a specific type
  form {}
